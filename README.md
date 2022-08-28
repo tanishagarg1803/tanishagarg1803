@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Tanisha Garg
 
 
-* 🎓 I'm currently a pre-final year student at ABES Engineering College, Ghaziabad.
+* 🎓 I'm currently a final year student at ABES Engineering College, Ghaziabad.
 * 📚 Currently learning ReactJs.
 * ⚡️ Understanding and practicing DSA everyday.
 * 🔎 I'm looking forward to contribute to some open source projects.
